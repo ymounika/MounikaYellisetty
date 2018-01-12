@@ -1,6 +1,6 @@
 package com.prokarma.GIT.MounikaYellisetty;
 
-public class GitFeature2master {
+public class GitFeature2Master {
 public static void main(String[] args) {
 	System.out.println("Hi Feature2");
 	System.out.println("Hello Girl");
